@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "label": "TOTAL TRIPS",
+      "number": "54",
+      "amount": "100 Cr",
+      "color": "#3f51b5",
+      "percentageChangeInNumber": "+8%",
+      "percentageChangeInAmount": "-9.9%",
+      "active": "true"
+    },
+    {
+      "label": "ON-TIME",
+      "number": "26",
+      "amount": "47 Cr",
+      "color": "#24a139",
+      "percentageChangeInNumber": "+8%",
+      "percentageChangeInAmount": "-9.9%",
+      "active": "false"
+    },
+    {
+      "label": "DELAYED",
+      "number": "12",
+      "amount": "27.2 Cr",
+      "color": "#a5a5a5",
+      "percentageChangeInNumber": "+8%",
+      "percentageChangeInAmount": "-9.9%",
+      "active": "false"
+    },
+    {
+      "label": "DEVIATED",
+      "number": "03",
+      "amount": "9.3Cr",
+      "color": "#000000",
+      "percentageChangeInNumber": "+8%",
+      "percentageChangeInAmount": "-9.9%",
+      "active": "false"
+    },
+    {
+      "label": "MISSING",
+      "number": "07",
+      "amount": "9.3Cr",
+      "color": "#dc0001",
+      "percentageChangeInNumber": "+8%",
+      "percentageChangeInAmount": "-9.9%",
+      "active": "false"
+    },
+    {
+      "label": "UN-TRACKED",
+      "number": "03",
+      "amount": "3.2Cr",
+      "color": "#4fadfe",
+      "percentageChangeInNumber": "+8%",
+      "percentageChangeInAmount": "-9.9%",
+      "active": "false"
+    }
+  ]
+}

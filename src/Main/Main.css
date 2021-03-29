@@ -1,0 +1,12 @@
+.Main {
+  /* width: 90%; */
+  margin: 20px;
+  max-width: 1160px;
+  background-color: white;
+
+  height: 125vh;
+}
+/* .HighShipmentContainer {
+  display: flex;
+  justify-content: space-between;
+} */

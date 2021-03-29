@@ -1,0 +1,20 @@
+.Cards {
+  display: flex;
+}
+
+.CardRightSide {
+  display: flex;
+  flex-direction: column;
+}
+hr {
+  size: b4;
+  color: green;
+  /* height: 20000px; */
+  margin: 20px;
+}
+
+.CardRightSideCards {
+  display: flex;
+}
+.CardRightSideCardsColor {
+}

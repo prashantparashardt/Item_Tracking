@@ -1,0 +1,38 @@
+.Card {
+  border: 1px solid red;
+  width: 130px;
+  height: 100px;
+  margin: 0 21px;
+  /* padding: 10px; */
+  border-radius: 4px;
+  padding: 10px 15px 10px 15px;
+}
+.Card:last-child {
+  margin: 0;
+}
+.FirstCard {
+  border: 1px solid red;
+  width: 130px;
+  height: 110px;
+  margin-right: 21px;
+  padding: 52px 15px 0px 15px;
+  border-radius: 4px;
+}
+.CardLabel {
+  font-size: 10px;
+}
+
+.CardAmount {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.CardNumber {
+  font-size: 26px;
+}
+.CardPercentage {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-top: 20px;
+}

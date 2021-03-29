@@ -1,0 +1,26 @@
+{
+  "missingWindow": {
+    "label": "Missing truck",
+    "value": "5 Cr",
+    "tripId": "123456",
+    "transporter": "VRL Logistics",
+    "from": "Mumbai",
+    "to": "Banglore",
+    "driverDetails": "Rahul(+91-9876543210)",
+    "lastKnownDetail": "Kolhapur(26-Oct-2017,11:12PM)",
+    "color": "#e56b7a",
+    "backgroundColor": "#fcf0f1"
+  },
+  "detentionTruck": {
+    "label": "Detention truck",
+    "value": "5 Cr",
+    "tripId": "123456",
+    "transporter": "VRL Logistics",
+    "from": "Mumbai",
+    "to": "Banglore",
+    "driverDetails": "Rahul(+91-9876543210)",
+    "lastKnownDetail": "Kolhapur(26-Oct-2017,11:12PM)",
+    "color": "#101010",
+    "backgroundColor": "#e5e5e5"
+  }
+}

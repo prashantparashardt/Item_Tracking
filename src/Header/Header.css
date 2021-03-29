@@ -1,0 +1,59 @@
+.Header {
+  display: flex;
+  height: 10%;
+  border: 1px solid rgb(160, 157, 157);
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.SearchIcon,
+.BellIcon {
+  /* background-color: blue; */
+  color: blue;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 2px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.HomeIcon {
+  width: 5%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #7548c2;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+}
+
+.HomeIconSpan {
+  background-color: white;
+  color: #7548c2;
+  margin-left: 1px;
+  padding-right: 1px;
+  padding-left: 1px;
+}
+.TrackingContainer {
+  width: 12%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 1px solid rgb(160, 157, 157);
+  height: 100%;
+}
+.Tracking {
+}
+.Search {
+  display: flex;
+  width: 77%;
+}
+.SearchInput {
+  outline: none;
+  width: 100%;
+  border: none;
+  font-size: 13px;
+}

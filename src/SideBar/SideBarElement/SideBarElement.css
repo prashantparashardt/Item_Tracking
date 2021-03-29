@@ -1,0 +1,39 @@
+.SideBarElement {
+  padding: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.SideBarElement:first-child {
+  margin-top: 100%;
+}
+.SideBarElement:last-child {
+  margin-top: 300%;
+}
+
+.SideBarElementTitle {
+  font-size: 8.5px;
+  color: white;
+}
+
+.fa-icon {
+  color: white;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 2px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.active {
+  color: #27d0fc;
+  border-right: 4px solid #27d0fc;
+  background-color: #293a93;
+}
+.activeIcon {
+  color: #27d0fc;
+}

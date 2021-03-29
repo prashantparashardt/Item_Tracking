@@ -1,0 +1,19 @@
+.TemplateSideHeadingDoYouKnow {
+  font-weight: 500;
+  font-size: 20px;
+  color: #41ca3f;
+  border-left: 3px solid #41ca3f;
+  padding: 0 15px;
+  margin-top: 10px;
+}
+.TemplateSideContentLeft {
+  width: 80%;
+  font-size: 14px;
+}
+.StartTrackingBtn {
+  background-color: #eaf9eb;
+  color: #41ca3f;
+  padding: 6px 10px 6px 10px;
+  border: 1px solid #41ca3f;
+  border-radius: 2px;
+}

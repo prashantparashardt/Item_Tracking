@@ -1,0 +1,8 @@
+.TabMainContainer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.TabContainer {
+  display: flex;
+}

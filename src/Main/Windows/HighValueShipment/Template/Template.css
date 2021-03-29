@@ -1,0 +1,58 @@
+.Template {
+  width: 48%;
+  box-sizing: border-box;
+  box-shadow: 0px 0px 5px rgb(184, 179, 179);
+  border-radius: 3px;
+}
+.TemplateHeader {
+  display: flex;
+  padding: 0 15px;
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.TemplateHeaderHeading {
+  display: flex;
+  align-items: center;
+}
+.TripDetails {
+  display: flex;
+  margin-top: 5%;
+  flex-direction: column;
+}
+.TripDetailsId {
+  display: flex;
+  flex-direction: column;
+}
+.TripDetailsLocation {
+  display: flex;
+  flex-direction: column;
+}
+
+.DriverDetails1 {
+  display: flex;
+  margin-top: 5%;
+  flex-direction: column;
+  margin-right: 10%;
+}
+
+.DetailsContainer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  padding: 0px 15px 15px 15px;
+}
+.TemplateBottom {
+  margin-top: 5%;
+}
+.TemplateValue {
+}
+
+.btn {
+  padding: 6px 12px 6px 12px;
+  margin-top: 5%;
+  background-color: white;
+  border: 1px solid #e990f6;
+  color: #e990f6;
+  border-radius: 5px;
+}

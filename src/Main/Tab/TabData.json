@@ -1,0 +1,13 @@
+{
+  "tab1": [
+    { "label": "All", "item": "54", "status": "active" },
+    { "label": "FTL", "item": "26", "status": "Inactive" },
+    { "label": "LCL", "item": "76", "status": "Inactive" },
+    { "label": "Courier", "item": "10", "status": "Inactive" },
+    { "label": "Container", "item": "03", "status": "Inactive" }
+  ],
+  "tab2": [
+    { "label": "Inbound", "item": "30", "status": "active" },
+    { "label": "Outbound", "item": "16", "status": "Inactive" }
+  ]
+}

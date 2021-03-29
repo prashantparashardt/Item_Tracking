@@ -1,0 +1,7 @@
+.Template2 {
+  width: 48%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}

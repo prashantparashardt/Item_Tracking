@@ -1,0 +1,18 @@
+{
+  "highValueShipment": {
+    "label": "High Value Shipment",
+    "value": "25 Cr",
+    "tripId": "123456",
+    "transporter": "VRL Logistics",
+    "from": "Mumbai,Maharastra",
+    "placeStart1time": "22 Oct, 9:45 AM",
+    "placeStart2time": "25 Oct, 2:04 pM",
+    "placeStart3time": "ETA 26 Oct, 9:45 AM",
+    "placeStart4time": "ETA 26 Oct, 9:45 AM",
+    "driverDetails": "Rahul(+91-9876543210)",
+    "lastKnownDetail": "Kolhapur(26-Oct-2017,11:12PM)",
+    "item": "TMT steel bars",
+    "color": "#e990f6",
+    "backgroundColor": "#e5e5e5"
+  }
+}
